@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+}
+
+.gro{
+    color: red;
+    text-align: center;
+}
+
+.gpo{
+    color: black;
+    text-align: left;
+}
+
+.ppo{
+    float: left;
+    height: 200px;
+    width: 409px;
+}
+
+.oil{
+    text-align: center;
+    color: black;
+}
+
+.poli{
+    text-align: center;
+    color: black;
+}
+
+.loi{
+    float: left;
+    height: 200px;
+    width: 409px;
+}
